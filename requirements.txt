@@ -1,0 +1,11 @@
+beautifulsoup4==4.11.1
+imblearn==0.0
+jieba==0.42.1
+numpy==1.20.1
+pandas==1.4.2
+pygtrans==1.5.3
+Requests==2.31.0
+scikit_learn==1.2.2
+torch==1.12.1
+tqdm==4.65.0
+transformers==4.31.0
